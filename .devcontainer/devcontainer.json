@@ -1,0 +1,9 @@
+{
+	"name": "Codespaces Rust Starter",
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+	"features": {
+		"ghcr.io/devcontainers/features/rust:1": {
+      "profile": "complete"
+    }
+	}
+}
